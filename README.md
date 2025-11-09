@@ -80,7 +80,7 @@ Here are three likely causes and how I would diagnose:
 
 ### Task 2 - Design Improvement
 
-![Architecture Diagram](https://github.com/usmansaeedcs/web-service-exercise/diagram.png)
+![Architecture Diagram](https://github.com/usmansaeedcs/web-service-exercise/blob/main/diagram.png)
 
 **<ins>1. CloudFront CDN</ins>**
 
